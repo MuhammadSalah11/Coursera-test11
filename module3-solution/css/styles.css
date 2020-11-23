@@ -1,5 +1,13 @@
 body {
 	background-color: #ff9061;
 	font-size: 16px;
+	color: #6112ff;
 	font-family: Helvatica, sans-serif;
+}
+
+/** HRADER **/
+#header-nav {
+	background-color: #3fe1f0;
+	border-radius: 0;
+	border: 0;
 }
